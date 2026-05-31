@@ -35,16 +35,3 @@ Uma aplicação interativa desenvolvida em Python para automatizar a leitura, li
 - [x] **Gráficos Interativos:** Linha de tendência de fluxo de caixa diário.
 - [x] **Visualizador de Dados:** Tabela expansível para auditoria do extrato já tratado.
 
----
-
-## 🚀 Como Executar o Projeto
-
-### Pré-requisitos
-Antes de começar, você vai precisar ter o [Python](https://www.python.org/) instalado em sua máquina.
-
-### Passo a Passo
-
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
-   cd NOME_DO_REPOSITORIO
